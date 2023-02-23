@@ -1,7 +1,7 @@
 <h1 align="center"> Yiimp - Yaamp Fork </h1>
 
 <h3 align="left"> Requirements </h3>
-1
+
 * Linux
 * Mysql
 * Php 7.3
